@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/material-jetting-printhead-explainer/
 
+Repository: https://github.com/mizcausevic-dev/material-jetting-printhead-explainer
+
 ## What this is
 
 An interactive anatomy plate for Material-Jetting Printhead. Play, scrub, or jump the five stages. The same frame always draws the same picture.
